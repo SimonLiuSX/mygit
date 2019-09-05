@@ -1,6 +1,3 @@
-C
-jfoggggggg:
-
 A
 D
 C
